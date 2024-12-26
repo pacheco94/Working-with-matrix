@@ -57,7 +57,7 @@ const MatrixFilter = () => {
     
 
     return(
-        <div>
+        <div className="contenedor">
            <h1>Matrix Even Filter</h1>
            <div>
             <label>Input Array (coma separates):</label><br/>
